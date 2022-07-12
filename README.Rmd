@@ -1,0 +1,17 @@
+---
+title: "ReadMe"
+output: html_document
+date: '2022-07-12'
+---
+
+This is a project by Shrey Kukreti analyzing different stocks and their historical price and volume action. Dataset from [kaggle](https://www.kaggle.com/datasets/camnugent/sandp500)
+
+Include in your README:
+- A description of your dataset
+- 
+```{r}
+
+
+
+
+```
